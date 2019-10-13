@@ -1,5 +1,4 @@
 *********README.TXT**********
-Y3848937
 
 ENTRY POINT -> FlockingMain.java
 
